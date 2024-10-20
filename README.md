@@ -1,8 +1,29 @@
-# React + Vite
+# Personal portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Using React 18.2.0 + Vite + Javascript + Supabase
 
-Currently, two official plugins are available:
+### First command after a repository clone
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install dependencies
+
+```
+npm install
+```
+
+### Run this project
+
+Development enviroment
+
+```
+npm run dev
+```
+
+Production enviroment
+
+```
+npm run build
+```
+
+#### Your server is running on:
+
+`http://localhost:5173/`
